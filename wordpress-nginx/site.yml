@@ -8,7 +8,8 @@
 
   roles:
     - common
-    - mysql
+#    - mysql
+    - mariadb
     - nginx
     - php-fpm
     - wordpress
